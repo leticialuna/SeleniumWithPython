@@ -31,3 +31,4 @@ for l in links:
             print("Dia ", l[1], i.text)
     except:
         print("Dia ", l[1], " Nao ha artistas confirmados")
+        
